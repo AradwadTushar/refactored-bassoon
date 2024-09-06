@@ -43,3 +43,12 @@ GET : Get all issued books with fine
     >>npm init 
     >>npm i express
     >>npm i nodemon
+
+
+ ## MongoDB :
+       npm i mongoose
+       npm i mongodb
+
+       mongodb+srv://aradwadtushar2004:29-05-2004@cluster0.75x6n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+       npm i dotenv
