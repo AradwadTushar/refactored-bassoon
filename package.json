@@ -1,0 +1,16 @@
+{
+  "name": "book-record-management",
+  "version": "1.0.0",
+  "description": "Book Record Management",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "author": "Tushar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
